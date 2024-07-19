@@ -1,0 +1,4 @@
+.pagination-btn {
+  width: 40px; /* 버튼의 최소 너비를 설정 */
+  text-align: center; /* 텍스트 가운데 정렬 */
+}

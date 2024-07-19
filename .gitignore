@@ -1,0 +1,14 @@
+.idea
+board.db
+*.pyc
+__pycache__
+migrations
+alembic.ini
+bin
+lib
+include
+pyvenv.cfg
+.vscode
+.DS_Store
+.env
+
